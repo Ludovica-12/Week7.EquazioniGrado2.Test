@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.Test"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.Core", "Week7.EquazioniGrado2.Core\Week7.EquazioniGrado2.Core.csproj", "{D5F0C8ED-79CA-4DEA-BC5D-86DF75D0FD36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.EquazioniGrado2", "Week7.EquazioniGrado2\Week7.EquazioniGrado2.csproj", "{7939A0F3-F88F-4925-ABDA-90E6873E80A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2", "Week7.EquazioniGrado2\Week7.EquazioniGrado2.csproj", "{7939A0F3-F88F-4925-ABDA-90E6873E80A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.EquazioniGrado2.WinForms", "Week7.EquazioniGrado2.WinForms\Week7.EquazioniGrado2.WinForms.csproj", "{12B0E698-F617-4B92-A237-8D305F3DD76B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.WinForms", "Week7.EquazioniGrado2.WinForms\Week7.EquazioniGrado2.WinForms.csproj", "{12B0E698-F617-4B92-A237-8D305F3DD76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.EquazioniGrado2.WPF", "Week7.EquazioniGrado2.WPF\Week7.EquazioniGrado2.WPF.csproj", "{7D20D569-A3F3-413F-9806-E89D46AD95AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{12B0E698-F617-4B92-A237-8D305F3DD76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B0E698-F617-4B92-A237-8D305F3DD76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B0E698-F617-4B92-A237-8D305F3DD76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D20D569-A3F3-413F-9806-E89D46AD95AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D20D569-A3F3-413F-9806-E89D46AD95AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D20D569-A3F3-413F-9806-E89D46AD95AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D20D569-A3F3-413F-9806-E89D46AD95AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
